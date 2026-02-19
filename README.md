@@ -27,7 +27,7 @@ A simple and user-friendly **Student Management System** built using **Python**.
 ## 📂 Project Structure
 
 ```
-STUDENTMANAGEMENT/
+student-management-system/
 │
 ├── student.py
 └── README.md
@@ -127,3 +127,4 @@ GitHub: https://github.com/ekbal786-developement
 ## 📜 License
 
 Free to use for educational purposes.
+
